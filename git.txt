@@ -1,0 +1,9 @@
+create a new repo
+git init 
+git status
+git add .
+git status
+git commit -m 'msg'
+git branch -m main
+git remote add
+git push -u origin main
